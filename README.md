@@ -1,3 +1,5 @@
+> **Maintenance notice:** This repository is unmaintained and contains outdated dependencies. It is preserved for reference and is not recommended for production use.
+
 #JD-GUI
 
 JD-GUI, a standalone graphical utility that displays Java sources from CLASS files.
